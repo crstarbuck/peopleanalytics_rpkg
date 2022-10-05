@@ -1,0 +1,14 @@
+Package: peopleanalytics
+Title: Data Sets for Craig Starbuck's Book, "The Fundamentals of People Analytics: With Applications in R"
+Version: 0.1.0
+Authors@R:
+    person("Craig", "Starbuck", , "cstarbuck@orgacuity.com", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0001-5089-2850"))
+Description: This package includes data sets associated with modeling examples in Craig Starbuck's book, "The Fundamentals of People Analytics: With Applications in R".
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.1
+Depends:
+    R (>= 2.10)
+LazyData: true
